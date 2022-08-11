@@ -238,8 +238,9 @@ export default function Activities() {
                 <i className="fa fa-star-o" aria-hidden="true" />
               </span>
               <p className="information">
-                " Let's spread the joy , here is Christmas , the most awaited
-                day of the year.Christmas Tree is what one need the most.
+                Yoga is essentially a spiritual discipline based on an extremely
+                subtle science, which focuses on bringing harmony between mind
+                and body.
               </p>
               <div>
                 {/* <button
@@ -297,8 +298,8 @@ export default function Activities() {
                 <i className="fa fa-star-o" aria-hidden="true" />
               </span>
               <p className="information">
-                " Let's spread the joy , here is Christmas , the most awaited
-                day of the year.Christmas Tree is what one need the most.
+                " Zumba is intended as a total-body cardio and aerobic workout,
+                which provides a large calorie consumption.
               </p>
               <div>
                 {/* <button
@@ -356,8 +357,9 @@ export default function Activities() {
                 <i className="fa fa-star-o" aria-hidden="true" />
               </span>
               <p className="information">
-                " Let's spread the joy , here is Christmas , the most awaited
-                day of the year.Christmas Tree is what one need the most.
+                " Meditation is a practice in which an individual uses a
+                technique such as mindfulness, or focusing the mind on a
+                particular object, thought, or activity to train attention.
               </p>
               <div>
                 {/* <button
@@ -415,8 +417,8 @@ export default function Activities() {
                 <i className="fa fa-star-o" aria-hidden="true" />
               </span>
               <p className="information">
-                " Let's spread the joy , here is Christmas , the most awaited
-                day of the year.Christmas Tree is what one need the most.
+                " Dance is a performing art form consisting of sequences of
+                movement, either improvised or purposefully selected.
               </p>
               <div>
                 {/* <button

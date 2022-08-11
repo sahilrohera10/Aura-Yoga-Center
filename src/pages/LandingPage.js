@@ -22,7 +22,7 @@ export default function LandingPage() {
       {/* <MeetOurFounder /> */}
       {/* <WhyUs /> */}
       <Testimonial />
-      <GalleryPage />
+      {/* <GalleryPage /> */}
       <Footer />
     </div>
   );
