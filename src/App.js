@@ -1,13 +1,16 @@
 import logo from "./logo.svg";
 import "./App.css";
 import LandingPage from "./pages/LandingPage";
-import { BackTop } from "antd";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import GalleryPage from "./pages/GalleryPage";
 
 function App() {
   return (
     <div>
-      <LandingPage />
-      {/* <BackTop /> */}
+      <Routes>
+        <Route path="/" element={<LandingPage />}></Route>
+        <Route path="/gallery" element={<GalleryPage />}></Route>
+      </Routes>
     </div>
   );
 }
