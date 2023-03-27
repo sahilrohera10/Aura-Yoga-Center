@@ -12,7 +12,7 @@ export default function Testimonial() {
         </h1>
         <div className="container mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 xl:px-20 px-10 py-20 gap-6">
           <div>
-            <div className="group w-full bg-white relative flex flex-col items-center hover:bg-indigo-700 cursor-pointer shadow-md md:p-12 p-6">
+            <div className="group w-full bg-white relative flex flex-col items-center hover:bg-indigo-700 cursor-pointer shadow-md md:p-6 p-6">
               <div className="text-gray-600 group-hover:text-white flex flex-col items-center">
                 <svg
                   width={26}
@@ -43,9 +43,11 @@ export default function Testimonial() {
                   </defs>
                 </svg>
                 <p className="xl:w-80 text-base leading-normal text-center mt-4">
-                  When our designs need an expert opinion or approval, I know I
-                  can rely on your agency Thank you for all your help-I will be
-                  recommending you to everyone
+                  I had join yog one month back my body was totally stiff not
+                  able to even bend properly I really feel the change in my
+                  body. I am very much confident now. It was challenging but
+                  really interesting.It is great learning for me, very familiar
+                  atomosphere.
                 </p>
               </div>
               <div className="text-white group-hover:text-indigo-700 absolute bottom-0 -mb-6">
@@ -129,15 +131,15 @@ export default function Testimonial() {
                 className="w-12 h-12"
               />
               <p className="text-base font-semibold leading-4 my-2 text-gray-800">
-                Tom Koch
+                Jasminder Bhatia
               </p>
               <p className="text-base leading-4 text-center text-gray-600">
-                Developer
+                Participant
               </p>
             </div>
           </div>
           <div>
-            <div className="group w-full bg-white relative flex flex-col items-center hover:bg-indigo-700 cursor-pointer shadow-md md:p-12 p-6">
+            <div className="group w-full bg-white relative flex flex-col items-center hover:bg-indigo-700 cursor-pointer shadow-md md:p-6 p-6">
               <div className="text-gray-600 group-hover:text-white flex flex-col items-center">
                 <svg
                   width={26}
@@ -168,9 +170,10 @@ export default function Testimonial() {
                   </defs>
                 </svg>
                 <p className="xl:w-80 text-base leading-normal text-center mt-4">
-                  When our designs need an expert opinion or approval, I know I
-                  can rely on your agency Thank you for all your help-I will be
-                  recommending you to everyone
+                  Wonderful Experience..perfect place for rejuvenating & healing
+                  body. Meditation sessions are incredibly soulful. A very
+                  special thanks to Mrs. Karuna Ahuja , our instructor, she is
+                  very proud , coorperative and understanding.
                 </p>
               </div>
               <div className="text-white group-hover:text-indigo-700 absolute bottom-0 -mb-6">
@@ -254,10 +257,10 @@ export default function Testimonial() {
                 className="w-12 h-12"
               />
               <p className="text-base font-semibold leading-4 my-2 text-gray-800">
-                Alan Max
+                Juhi
               </p>
               <p className="text-base leading-4 text-center text-gray-600">
-                Designer
+                Participant
               </p>
             </div>
           </div>

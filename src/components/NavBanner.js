@@ -27,7 +27,7 @@ function NavBanner() {
                     marginTop: "5px",
                   }}
                 >
-                  Aura Yoga Center
+                  Aura Yog Centre
                 </p>{" "}
               </div>
               <div className="md:w-1/2 xl:w-1/3">
@@ -41,7 +41,7 @@ function NavBanner() {
                     <Link to="/aboutUs">About Us</Link>
                   </li>
                   <li className="border-b-4 border-transparent pb-1">
-                    <Link to="/gallery">Gallery</Link>
+                    <Link to="/Store">Store</Link>
                   </li>
                   {/* <li className="border-b-4 border-transparent pb-1">
                     <a href>Blog</a>
@@ -66,7 +66,7 @@ function NavBanner() {
                     marginTop: "-8px",
                   }}
                 />
-                <p className="navHead">Aura Yoga Center</p>{" "}
+                <p className="navHead">Aura Yog Centre</p>{" "}
               </div>
               <div className=" flex items-center">
                 {show && (
@@ -88,8 +88,8 @@ function NavBanner() {
                       </Link>
                     </li>
                     <li className="flex cursor-pointer text-gray-600 text-sm leading-3 tracking-normal py-2 hover:text-indigo-700  items-center focus:text-indigo-700 focus:outline-none">
-                      <Link to="/gallery">
-                        <span className="ml-2 font-bold">Gallery</span>
+                      <Link to="/Store">
+                        <span className="ml-2 font-bold">Store</span>
                       </Link>
                     </li>
                     {/* <li
@@ -163,10 +163,10 @@ function NavBanner() {
                 className="text-3xl lg:text-5xl xl:text-7xl font-black text-gray-900 text-center md:text-left tracking-tighter f-f-i md:w-7/10 leading-tight text-heading-color"
                 style={{ color: "#351B58" }}
               >
-                ONE STEP SOLUTION <br /> TO ALL YOUR <br /> PROBLEMS
+                Nurture your <br /> mind, body, and <br /> spirit
               </h1>
               <h2 className="md:w-8/12 py-4 text-center md:text-left md:py-8 text-gray-700 text-lg lg:text-2xl">
-                Just Fall Into Yoga
+                at Aura Yog Centre
               </h2>
               <div className="w-full flex justify-center md:block">
                 <button

@@ -115,7 +115,7 @@ export default function GalleryPage() {
   ];
 
   return (
-    <>
+    <div style={{ width: "90%", margin: "auto" }}>
       <nav className="w-full ">
         <div className="hidden lg:flex w-full f-f-p justify-between items-center py-6 relative">
           <div style={{ display: "flex" }}>
@@ -268,6 +268,6 @@ export default function GalleryPage() {
 
         <br />
       </div>
-    </>
+    </div>
   );
 }
